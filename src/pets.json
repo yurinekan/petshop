@@ -4,6 +4,7 @@
     "name": "Frieda",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
+    "price": 2100,
     "breed": "Scottish Terrier",
     "location": "Lisco, Alabama"
   },
@@ -13,6 +14,7 @@
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
+    "price": 4100,
     "location": "Tooleville, West Virginia"
   },
   {
@@ -21,6 +23,7 @@
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
+    "price": 1050,
     "location": "Freeburn, Idaho"
   },
   {
@@ -29,6 +32,7 @@
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
+    "price": 1040,
     "location": "Camas, Pennsylvania"
   },
   {
@@ -37,6 +41,7 @@
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
+    "price": 1300,
     "location": "Gerber, South Dakota"
   },
   {
@@ -45,6 +50,7 @@
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
     "breed": "French Bulldog",
+    "price": 11100,
     "location": "Innsbrook, Illinois"
   },
   {
@@ -53,6 +59,7 @@
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
+    "price": 1020,
     "location": "Soudan, Louisiana"
   },
   {
@@ -61,6 +68,7 @@
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
+    "price": 1030,
     "location": "Jacksonwald, Palau"
   },
   {
@@ -69,6 +77,7 @@
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
+    "price": 1200,
     "location": "Honolulu, Hawaii"
   },
   {
@@ -77,6 +86,7 @@
     "picture": "images/boxer.jpeg",
     "age": 3,
     "breed": "Boxer",
+    "price": 10550,
     "location": "Matheny, Utah"
   },
   {
@@ -85,6 +95,7 @@
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
+    "price": 1500,
     "location": "Tyhee, Indiana"
   },
   {
@@ -93,6 +104,7 @@
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
+    "price": 1100,
     "location": "Windsor, Montana"
   },
   {
@@ -101,6 +113,7 @@
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
     "breed": "French Bulldog",
+    "price": 1020,
     "location": "Kingstowne, Nevada"
   },
   {
@@ -109,6 +122,7 @@
     "picture": "images/golden-retriever.jpeg",
     "age": 4,
     "breed": "Golden Retriever",
+    "price": 14500,
     "location": "Sultana, Massachusetts"
   },
   {
@@ -117,6 +131,7 @@
     "picture": "images/golden-retriever.jpeg",
     "age": 2,
     "breed": "Golden Retriever",
+    "price": 1400,
     "location": "Broadlands, Oregon"
   },
   {
@@ -125,6 +140,7 @@
     "picture": "images/golden-retriever.jpeg",
     "age": 2,
     "breed": "Golden Retriever",
+    "price": 1020,
     "location": "Dawn, Wisconsin"
   }
 ]
