@@ -13,14 +13,6 @@ This Decentralized App (DAPP) project includes:
 Open a terminal & Run the following commands
 
 ```zsh
-git clone https://github.com/ChrisBarnes2000/PetShopDAPP.git
-cd PetShopDAPP
 npm install
 npm run dev
 ```
-
-## 📚 Resources & Credits
-
-https://www.trufflesuite.com/guides/pet-shop.html
-https://make-school-courses.github.io/BEW-2.4-Decentralized-Apps-Distributed-Protocols/#/
-https://make-school-courses.github.io/BEW-2.4-Decentralized-Apps-Distributed-Protocols/#/Lessons/SmartContracts
